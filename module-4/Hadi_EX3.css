@@ -1,0 +1,55 @@
+h1{
+    text-align: center;
+    font-family: Oswald, Verdana, Arial, sans-serif;
+}
+
+.divl{
+
+    width: 45%;
+float: left;
+font-family: Oswald, Verdana, Arial, sans-serif;
+}
+
+.divr{
+
+    width: 45%;
+    float: right;
+    font-family: Oswald, Verdana, Arial, sans-serif;
+}
+
+.footer{
+    width: 100%;
+    margin-top: 60%;
+   float:right;
+   margin-bottom: 20px;
+}
+
+.footer a{
+    float: right;
+}
+
+h3{
+    font-weight: 500px;
+}
+
+ul, ol{
+    font-weight: 300;
+    border:1px solid red;
+    border-radius: 15px;
+}
+ul{
+   
+    padding: 10px;
+    list-style: inside;
+    list-style-type: upper-roman;
+    border-style: dashed;
+}
+a{
+    text-decoration: none;
+    font-family: Oswald, Verdana, Arial, sans-serif;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
